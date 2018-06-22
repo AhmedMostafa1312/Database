@@ -1,7 +1,7 @@
 # Database
 Student Database - Linked list
 ----------------------------------
-Student ID
+- Student ID
 - Student Year
 - Course_1 ID
 - Course_1 Grade
