@@ -1,5 +1,5 @@
 # Database
-Student Database - Linked list
+Student Database - Linked lists
 ----------------------------------
 - Student ID
 - Student Year
